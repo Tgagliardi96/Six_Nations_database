@@ -1,0 +1,233 @@
+﻿Player,Position,Date of Birth,Age,Caps,Team
+Jamie George,Hooker,10/20/1990,26,12,England
+Dylan Hartley (c),Hooker,3/24/1986,30,79,England
+Tommy Taylor,Hooker,11/11/1991,25,1,England
+Dan Cole,Prop,5/9/1987,29,69,England
+Nathan Catt,Prop,1/6/1988,29,0,England
+Ellis Genge,Prop,2/16/1995,21,1,England
+Joe Marler,Prop,7/7/1990,26,46,England
+Matt Mullan,Prop,2/23/1987,29,13,England
+Kyle Sinckler,Prop,3/10/1993,23,4,England
+Charlie Ewels,Lock,6/29/1995,21,3,England
+George Kruis,Lock,2/22/1990,26,20,England
+Joe Launchbury,Lock,4/12/1991,25,37,England
+Courtney Lawes,Lock,2/23/1989,27,53,England
+Maro Itoje,Lock,10/28/1994,22,7,England
+Jack Clifford,Flanker,2/12/1993,23,8,England
+Teimana Harrison,Flanker,9/5/1992,24,5,England
+James Haskell,Flanker,4/2/1985,31,70,England
+Mike Williams,Flanker,11/4/1991,25,0,England
+Tom Wood,Flanker,11/3/1986,30,45,England
+Nathan Hughes,Number 8,6/10/1991,25,3,England
+Danny Care,Scrum-half,1/2/1987,30,66,England
+Ben Youngs,Scrum-half,9/5/1989,27,65,England
+Owen Farrell,Fly-half,9/24/1991,25,47,England
+George Ford,Fly-half,3/16/1993,23,30,England
+Alex Lozowski,Fly-half,6/30/1993,23,0,England
+Elliot Daly,Centre,10/8/1992,24,8,England
+Jonathan Joseph,Centre,5/21/1991,25,29,England
+Henry Slade,Centre,3/19/1993,23,4,England
+Ben Te'o,Centre,1/27/1987,30,3,England
+Jonny May,Wing,4/1/1990,26,22,England
+Jack Nowell,Wing,4/11/1993,23,18,England
+Anthony Watson,Wing,2/26/1994,22,24,England
+Marland Yarde,Wing,4/20/1992,24,11,England
+Mike Brown,Fullback,9/4/1985,31,55,England
+Paul Hill,Prop,3/2/1995,21,5,England
+Mako Vunipola,Prop,1/13/1991,26,39,England
+Billy Vunipola,Number 8,11/3/1992,24,32,England
+Henry Slade,Centre,3/19/1993,23,4,England
+Camille Chat,Hooker,12/18/1995,21,7,France
+Guilhem Guirado (c),Hooker,6/17/1986,36,46,France
+Clément Maynadier,Hooker,10/11/1988,28,2,France
+Uini Atonio,Prop,3/26/1990,26,20,France
+Cyril Baille,Prop,9/15/1993,23,3,France
+Eddy Ben Arous,Prop,8/25/1990,26,14,France
+Mohamed Boughanmi,Prop,10/27/1991,25,0,France
+Rabah Slimani,Prop,10/18/1989,27,31,France
+Arthur Iturria,Lock,5/13/1994,22,0,France
+Julien Le Devedec,Lock,6/4/1986,30,5,France
+Yoann Maestri,Lock,1/14/1988,29,51,France
+Sébastien Vahaamahina,Lock,10/21/1991,25,21,France
+Loann Goujon,Flanker,4/23/1989,27,13,France
+Kevin Gourdon,Flanker,1/23/1990,27,5,France
+Raphaël Lakafia,Flanker,10/28/1988,28,4,France
+Fabien Sanconnie,Flanker,2/21/1995,21,0,France
+Damien Chouly,Number 8,11/27/1985,31,43,France
+Louis Picamoles,Number 8,2/5/1986,30,57,France
+Maxime Machenaud,Scrum-half,12/30/1988,28,26,France
+Baptiste Serin,Scrum-half,6/20/1994,22,5,France
+Jean-Marc Doussain,Fly-half,2/12/1991,25,14,France
+Camille Lopez,Fly-half,4/3/1989,27,11,France
+Gaël Fickou,Centre,3/26/1994,22,24,France
+Wesley Fofana,Centre,1/20/1988,29,44,France
+Rémi Lamerat,Centre,1/14/1990,27,11,France
+Djibril Camara,Wing,6/22/1989,27,3,France
+Yann David,Wing,4/15/1988,28,4,France
+Yoann Huget,Wing,6/2/1987,29,42,France
+Noa Nakaitaci,Wing,7/11/1990,26,10,France
+Virimi Vakatawa,Wing,5/1/1992,24,8,France
+Geoffrey Palis,Fullback,7/8/1991,25,0,France
+Scott Spedding,Fullback,5/4/1986,30,18,France
+Christopher Tolofua,Hooker,12/31/1993,23,4,France
+Xavier Chiocci,Prop,2/13/1990,26,7,France
+Paul Jedrasiak,Lock,2/6/1993,23,5,France
+Bernard Le Roux,Flanker,6/4/1989,27,24,France
+Charles Ollivon,Flanker,5/11/1993,23,5,France
+Antoine Dupont,Scrum-half,11/15/1996,20,0,France
+François Trinh-Duc,Fly-half,11/11/1986,30,56,France
+Mathieu Bastareaud,Centre,9/17/1988,28,39,France
+Henry Chavancy,Centre,5/22/1988,28,0,France
+Jonathan Danty,Centre,10/7/1992,24,4,France
+Gabriel Lacroix,Wing,10/10/1993,23,0,France
+Brice Dulin,Fullback,4/13/1990,26,25,France
+Rory Best (c),Hooker,8/15/1982,34,100,Ireland
+Niall Scannell,Hooker,4/8/1992,24,0,Ireland
+James Tracy,Hooker,4/2/1991,25,1,Ireland
+Finlay Bealham,Prop,10/9/1991,25,6,Ireland
+Tadhg Furlong,Prop,11/14/1992,24,11,Ireland
+Cian Healy,Prop,10/7/1987,29,62,Ireland
+Dave Kilcoyne,Prop,12/14/1988,28,17,Ireland
+Jack McGrath,Prop,10/11/1989,27,36,Ireland
+John Ryan,Prop,8/2/1988,28,1,Ireland
+Ultan Dillane,Lock,11/9/1993,23,8,Ireland
+Iain Henderson,Lock,2/21/1992,24,28,Ireland
+Billy Holland,Lock,8/3/1985,31,1,Ireland
+Donnacha Ryan,Lock,12/11/1983,33,43,Ireland
+Devin Toner,Lock,6/29/1986,30,42,Ireland
+Jack Conan,Flanker,7/29/1992,24,1,Ireland
+Dan Leavy,Flanker,5/23/1994,22,1,Ireland
+Seán O'Brien,Flanker,2/14/1987,29,44,Ireland
+Tommy O'Donnell,Flanker,6/21/1987,29,12,Ireland
+Peter O'Mahony,Flanker,9/17/1989,27,37,Ireland
+CJ Stander,Flanker,4/5/1990,26,10,Ireland
+Josh van der Flier,Flanker,4/25/1993,23,5,Ireland
+Jamie Heaslip,Number 8,12/15/1983,33,91,Ireland
+Kieran Marmion,Scrum-half,2/11/1992,24,9,Ireland
+Luke McGrath,Scrum-half,2/3/1993,24,1,Ireland
+Conor Murray,Scrum-half,4/20/1989,27,53,Ireland
+Paddy Jackson,Fly-half,1/5/1992,25,19,Ireland
+Johnny Sexton,Fly-half,7/11/1985,31,63,Ireland
+Robbie Henshaw,Centre,6/12/1993,23,24,Ireland
+Luke Marshall,Centre,3/3/1991,25,9,Ireland
+Stuart McCloskey,Centre,8/6/1992,24,1,Ireland
+Garry Ringrose,Centre,1/26/1995,22,3,Ireland
+Rory Scannell,Centre,12/22/1993,23,0,Ireland
+Tommy Bowe,Wing,2/22/1984,32,67,Ireland
+Andrew Conway,Wing,7/11/1991,25,0,Ireland
+Keith Earls,Wing,10/2/1987,29,54,Ireland
+Craig Gilroy,Wing,3/11/1991,25,9,Ireland
+Andrew Trimble,Wing,10/20/1984,32,69,Ireland
+Simon Zebo,Wing,3/16/1990,26,28,Ireland
+Rob Kearney,Fullback,3/26/1986,30,72,Ireland
+Tiernan O'Halloran,Fullback,2/26/1991,25,3,Ireland
+Quinn Roux,Lock,10/30/1990,26,1,Ireland
+Ian Keatley,Fly-half,4/1/1987,29,4,Ireland
+Tommaso D'Apice,Hooker,6/30/1988,28,11,Italy
+Ornel Gega,Hooker,3/24/1990,26,8,Italy
+Leonardo Ghiraldini,Hooker,12/26/1984,32,82,Italy
+Pietro Ceccarelli,Prop,2/16/1992,24,5,Italy
+Dario Chistolini,Prop,9/14/1988,28,15,Italy
+Lorenzo Cittadini,Prop,12/17/1982,34,53,Italy
+Andrea Lovotti,Prop,7/28/1989,27,9,Italy
+Sami Panico,Prop,6/4/1993,23,6,Italy
+George Biagi,Lock,10/4/1985,31,14,Italy
+Joshua Furno,Lock,10/21/1989,27,36,Italy
+Marco Fuser,Lock,3/9/1991,25,16,Italy
+Federico Ruzza,Lock,8/4/1994,22,0,Italy
+Dries van Schalkwyk,Lock,12/21/1984,32,8,Italy
+Marco Barbini,Flanker,10/16/1990,26,2,Italy
+Simone Favaro,Flanker,11/7/1988,28,33,Italy
+Maxime Mbanda,Flanker,4/10/1993,23,3,Italy
+Francesco Minto,Flanker,5/20/1987,29,31,Italy
+Sergio Parisse (c),Number 8,9/12/1983,33,121,Italy
+Braam Steyn,Number 8,5/2/1992,24,6,Italy
+Giorgio Bronzini,Scrum-half,4/20/1990,26,3,Italy
+Edoardo Gori,Scrum-half,3/5/1990,26,56,Italy
+Marcello Violi,Scrum-half,10/11/1993,23,2,Italy
+Tommaso Allan,Fly-half,4/26/1993,23,27,Italy
+Carlo Canna,Fly-half,8/25/1992,24,15,Italy
+Tommaso Benvenuti,Centre,12/12/1990,26,37,Italy
+Tommaso Boni,Centre,1/15/1993,24,2,Italy
+Michele Campagnaro,Centre,3/13/1993,23,25,Italy
+Luke McLean,Centre,6/29/1987,29,84,Italy
+Giulio Bisegni,Wing,4/4/1992,24,5,Italy
+Angelo Esposito,Wing,6/14/1993,23,8,Italy
+Giovanbattista Venditti,Wing,3/27/1990,26,38,Italy
+Edoardo Padovani,Fullback,5/15/1993,23,6,Italy
+Michele Rizzo,Prop,9/16/1982,34,22,Italy
+Matteo Minozzi,Fly-half,6/4/1996,20,0,Italy
+Luca Sperandio,Fullback,1/28/1996,21,0,Italy
+Fraser Brown,Hooker,6/20/1989,27,20,Scotland
+Ross Ford,Hooker,4/23/1984,32,102,Scotland
+Stuart McInally,Hooker,8/9/1990,26,9,Scotland
+Alex Allan,Prop,2/28/1992,24,3,Scotland
+Simon Berghan,Prop,7/12/1990,26,0,Scotland
+Allan Dell,Prop,3/16/1992,24,3,Scotland
+Zander Fagerson,Prop,1/19/1996,21,4,Scotland
+WP Nel,Prop,4/30/1986,30,15,Scotland
+Gordon Reid,Prop,3/4/1987,29,19,Scotland
+Jon Welsh,Prop,10/13/1986,30,11,Scotland
+Jonny Gray,Lock,3/14/1994,22,28,Scotland
+Richie Gray,Lock,8/24/1989,27,60,Scotland
+Grant Gilchrist,Lock,8/9/1990,26,15,Scotland
+Tim Swinson,Lock,2/17/1987,29,25,Scotland
+Ben Toolis,Lock,3/31/1992,24,1,Scotland
+John Barclay,Flanker,9/24/1986,30,55,Scotland
+Cornell du Preez,Flanker,3/23/1991,25,0,Scotland
+John Hardie,Flanker,7/27/1988,28,13,Scotland
+Rob Harley,Flanker,5/26/1990,26,19,Scotland
+Hamish Watson,Flanker,10/15/1991,25,5,Scotland
+Ryan Wilson,Number 8,5/18/1989,27,23,Scotland
+Josh Strauss,Number 8,10/23/1986,30,9,Scotland
+Greig Laidlaw (c),Scrum-half,10/12/1985,31,56,Scotland
+Ali Price,Scrum-half,5/12/1993,23,1,Scotland
+Henry Pyrgos,Scrum-half,7/9/1989,27,18,Scotland
+Finn Russell,Fly-half,9/23/1992,24,22,Scotland
+Duncan Weir,Fly-half,5/10/1991,25,23,Scotland
+Mark Bennett,Centre,3/3/1993,23,17,Scotland
+Alex Dunbar,Centre,4/23/1990,26,19,Scotland
+Huw Jones,Centre,12/17/1993,23,3,Scotland
+Matt Scott,Centre,9/30/1990,26,36,Scotland
+Duncan Taylor,Centre,9/5/1989,27,18,Scotland
+Damien Hoyland,Wing,1/11/1994,23,2,Scotland
+Sean Maitland,Wing,9/14/1988,28,26,Scotland
+Tommy Seymour,Wing,7/1/1988,28,31,Scotland
+Tim Visser,Wing,5/29/1987,29,28,Scotland
+Stuart Hogg,Fullback,6/24/1992,24,48,Scotland
+Scott Baldwin,Hooker,7/12/1988,28,28,Wales
+Kristian Dacey,Hooker,7/25/1989,27,3,Wales
+Ken Owens,Hooker,1/3/1987,30,45,Wales
+Scott Andrews,Prop,8/1/1989,27,13,Wales
+Rob Evans,Prop,4/14/1992,24,12,Wales
+Tomas Francis,Prop,4/27/1992,24,17,Wales
+Rhodri Jones,Prop,12/23/1991,25,14,Wales
+Samson Lee,Prop,11/30/1992,24,29,Wales
+Nicky Smith,Prop,4/7/1994,22,7,Wales
+Jake Ball,Lock,6/21/1991,25,21,Wales
+Luke Charteris,Lock,3/9/1983,33,71,Wales
+Cory Hill,Lock,2/10/1992,24,3,Wales
+Alun Wyn Jones (c),Lock,9/19/1985,31,105,Wales
+Rory Thornton,Lock,3/16/1995,21,0,Wales
+Olly Cracknell,Flanker,5/26/1994,22,0,Wales
+James King,Flanker,7/24/1990,26,10,Wales
+Ross Moriarty,Flanker,4/18/1994,22,12,Wales
+Justin Tipuric,Flanker,8/6/1989,27,46,Wales
+Sam Warburton,Flanker,10/5/1988,28,69,Wales
+Thomas Young,Flanker,5/18/1992,24,0,Wales
+Taulupe Faletau,Number 8,11/12/1990,26,62,Wales
+Aled Davies,Scrum-half,7/19/1992,24,0,Wales
+Gareth Davies,Scrum-half,8/18/1990,26,21,Wales
+Rhys Webb,Scrum-half,12/9/1988,28,23,Wales
+Dan Biggar,Fly-half,10/16/1989,27,51,Wales
+Sam Davies,Fly-half,10/6/1993,23,3,Wales
+Owen Williams,Fly-half,2/27/1992,24,0,Wales
+Jonathan Davies,Centre,4/5/1988,28,59,Wales
+Jamie Roberts,Centre,11/8/1986,30,86,Wales
+Scott Williams,Centre,10/10/1990,26,41,Wales
+Alex Cuthbert,Wing,4/5/1990,26,44,Wales
+Steff Evans,Wing,9/1/1994,22,0,Wales
+Ashton Hewitt,Wing,11/20/1994,22,0,Wales
+George North,Wing,4/13/1992,24,65,Wales
+Leigh Halfpenny,Fullback,12/22/1988,28,66,Wales
+Liam Williams,Fullback,4/9/1991,25,38,Wales
