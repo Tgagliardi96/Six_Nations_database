@@ -1,0 +1,245 @@
+﻿Player,Position,Date of Birth,Age,Caps,Team
+Luke Cowan-Dickie,Hooker,1993-06-20,22,1,England
+Jamie George,Hooker,1990-10-22,25,3,England
+Dylan Hartley (c),Hooker,1986-03-24,29,66,England
+Dan Cole,Prop,1987-05-09,28,56,England
+Paul Hill,Prop,1995-03-02,20,0,England
+Joe Marler,Prop,1990-07-07,25,37,England
+Matt Mullan,Prop,1987-02-23,28,9,England
+Henry Thomas,Prop,1991-10-30,24,7,England
+Mako Vunipola,Prop,1991-01-13,25,27,England
+Maro Itoje,Lock,1994-10-28,21,0,England
+George Kruis,Lock,1990-02-22,25,10,England
+Joe Launchbury,Lock,1991-04-12,24,28,England
+Courtney Lawes,Lock,1989-02-23,26,42,England
+Jack Clifford,Flanker,1993-02-12,22,0,England
+James Haskell,Flanker,1985-04-02,30,62,England
+Matt Kvesic,Flanker,1992-04-14,23,2,England
+Chris Robshaw,Flanker,1986-06-04,29,43,England
+Josh Beaumont,Number 8,1992-03-24,23,0,England
+Billy Vunipola,Number 8,1992-11-03,23,21,England
+Danny Care,Scrum-half,1987-01-02,29,53,England
+Ben Youngs,Scrum-half,1989-09-05,26,52,England
+Owen Farrell,Fly-half,1991-09-24,24,35,England
+George Ford,Fly-half,1993-03-16,22,17,England
+Elliot Daly,Centre,1992-10-08,23,0,England
+Ollie Devoto,Centre,1993-09-22,22,0,England
+Sam Hill,Centre,1993-07-14,22,0,England
+Jonathan Joseph,Centre,1991-05-21,24,16,England
+Chris Ashton,Wing,1987-03-29,28,39,England
+Jack Nowell,Wing,1993-04-11,22,10,England
+Anthony Watson,Wing,1994-02-26,21,15,England
+Marland Yarde,Wing,1992-04-20,23,7,England
+Mike Brown,Fullback,1985-09-04,30,43,England
+Alex Goode,Fullback,1988-05-07,27,19,England
+Kieran Brookes,Prop,1990-08-29,25,15,England
+Ed Slater,Lock,1988-08-01,27,0,England
+Dave Ewers,Number 8,1990-11-03,25,0,England
+Luther Burrell,Centre,1987-12-06,28,13,England
+Manu Tuilagi,Centre,1991-05-18,24,25,England
+Semesa Rokoduguni,Wing,1987-08-28,28,1,England
+Camille Chat,Hooker,1995-12-18,20,0,France
+Guilhem Guirado (c),Hooker,1986-06-17,29,38,France
+Uini Atonio,Prop,1990-03-26,25,10,France
+Eddy Ben Arous,Prop,1990-08-25,25,12,France
+Jefferson Poirot,Prop,1992-11-01,23,0,France
+Rabah Slimani,Prop,1989-10-18,26,21,France
+Alexandre Flanquart,Lock,1989-10-09,26,18,France
+Paul Jedrasiak,Lock,1993-02-17,22,0,France
+Yoann Maestri,Lock,1988-01-14,28,42,France
+Sébastien Vahaamahina,Lock,1991-10-21,24,17,France
+Antoine Burban,Flanker,1987-07-22,28,3,France
+Yacouba Camara,Flanker,1994-06-02,21,0,France
+Kevin Gourdon,Flanker,1990-01-23,26,0,France
+Wenceslas Lauret,Flanker,1989-03-28,26,7,France
+Damien Chouly,Number 8,1985-11-27,30,36,France
+Louis Picamoles,Number 8,1986-02-05,30,51,France
+Sébastien Bezy,Scrum-half,1991-11-22,24,0,France
+Maxime Machenaud,Scrum-half,1988-12-30,27,18,France
+Morgan Parra,Scrum-half,1988-11-15,27,66,France
+Jean-Marc Doussain,Fly-half,1991-02-12,24,10,France
+Jules Plisson,Fly-half,1991-08-20,24,6,France
+Jonathan Danty,Centre,1992-10-07,23,0,France
+Alexandre Dumoulin,Centre,1989-08-24,26,8,France
+Gaël Fickou,Centre,1994-03-26,21,15,France
+Rémi Lamerat,Centre,1990-01-14,26,7,France
+Wesley Fofana,Centre,1988-01-20,28,39,France
+Benjamin Fall,Wing,1989-03-03,26,6,France
+Maxime Médard,Wing,1986-11-16,29,41,France
+Virimi Vakatawa,Wing,1992-05-01,23,0,France
+Hugo Bonneval,Fullback,1990-11-19,25,4,France
+Scott Spedding,Fullback,1986-05-04,29,14,France
+Xavier Chiocci,Prop,1990-02-13,25,4,France
+Vincent Pelo,Prop,1988-04-22,27,0,France
+Bernard Le Roux,Flanker,1989-06-04,26,23,France
+Loann Goujon,Number 8,1989-04-23,26,6,France
+Baptiste Serin,Scrum-half,1994-06-20,21,0,France
+François Trinh-Duc,Fly-half,1986-11-11,29,50,France
+Maxime Mermoz,Centre,1986-07-28,29,30,France
+Djibril Camara,Wing,1989-06-22,26,0,France
+Marvin O'Connor,Wing,1991-04-18,24,0,France
+Teddy Thomas,Wing,1991-04-18,24,4,France
+Rory Best (c),Hooker,1982-08-15,33,89,Ireland
+Seán Cronin,Hooker,1986-05-06,29,48,Ireland
+Rob Herring,Hooker,1990-04-27,25,1,Ireland
+Richardt Strauss,Hooker,1986-01-29,30,13,Ireland
+James Cronin,Prop,1990-11-23,25,2,Ireland
+Tadhg Furlong,Prop,1992-11-14,23,3,Ireland
+Jack McGrath,Prop,1989-10-11,26,25,Ireland
+Marty Moore,Prop,1991-03-01,24,10,Ireland
+Nathan White,Prop,1981-09-04,34,8,Ireland
+Ultan Dillane,Lock,1993-11-09,22,0,Ireland
+Mike McCarthy,Lock,1981-11-27,34,17,Ireland
+Donnacha Ryan,Lock,1983-12-11,32,34,Ireland
+Devin Toner,Lock,1986-06-29,29,31,Ireland
+Seán O'Brien,Flanker,1987-02-14,28,41,Ireland
+Tommy O'Donnell,Flanker,1987-05-21,28,9,Ireland
+Rhys Ruddock,Flanker,1990-11-13,25,6,Ireland
+Josh van der Flier,Flanker,1993-04-25,22,0,Ireland
+Jamie Heaslip,Number 8,1983-12-15,32,80,Ireland
+CJ Stander,Number 8,1990-04-05,25,0,Ireland
+Kieran Marmion,Scrum-half,1992-02-11,23,4,Ireland
+Conor Murray,Scrum-half,1989-04-20,26,42,Ireland
+Eoin Reddan,Scrum-half,1980-11-20,35,68,Ireland
+Paddy Jackson,Fly-half,1992-01-05,24,13,Ireland
+Ian Madigan,Fly-half,1989-03-21,26,25,Ireland
+Johnny Sexton,Fly-half,1985-07-11,30,56,Ireland
+Robbie Henshaw,Centre,1993-06-12,22,15,Ireland
+Luke Marshall,Centre,1991-03-03,24,6,Ireland
+Stuart McCloskey,Centre,1992-08-06,23,0,Ireland
+Jared Payne,Centre,1985-10-13,30,10,Ireland
+Keith Earls,Wing,1987-10-02,28,46,Ireland
+Luke Fitzgerald,Wing,1987-09-13,28,34,Ireland
+Dave Kearney,Wing,1989-06-19,26,14,Ireland
+Andrew Trimble,Wing,1984-10-20,31,58,Ireland
+Simon Zebo,Wing,1990-03-16,25,21,Ireland
+Rob Kearney,Fullback,1986-03-26,29,67,Ireland
+Finlay Bealham,Prop,1991-10-09,24,0,Ireland
+Cian Healy,Prop,1987-10-07,28,56,Ireland
+Mike Ross,Prop,1979-12-21,36,56,Ireland
+Dave Foley,Lock,1988-05-16,27,2,Ireland
+Jordi Murphy,Flanker,1991-04-22,24,14,Ireland
+Jack O'Donoghue,Flanker,1994-01-08,22,0,Ireland
+Craig Gilroy,Wing,1991-03-11,24,6,Ireland
+Fergus McFadden,Wing,1986-06-17,29,29,Ireland
+Ornel Gega,Hooker,1990-03-24,25,0,Italy
+Leonardo Ghiraldini,Hooker,1984-12-26,31,80,Italy
+Martin Castrogiovanni,Prop,1981-10-21,34,115,Italy
+Dario Chistolini,Prop,1988-09-14,27,13,Italy
+Lorenzo Cittadini,Prop,1982-12-17,33,44,Italy
+Andrea Lovotti,Prop,1989-07-28,26,0,Italy
+Matteo Zanusso,Prop,1993-04-09,22,0,Italy
+Valerio Bernabò,Lock,1984-03-03,31,27,Italy
+George Biagi,Lock,1985-10-04,30,8,Italy
+Marco Fuser,Lock,1991-03-09,24,6,Italy
+Francesco Minto,Flanker,1987-05-20,28,23,Italy
+Jacopo Sarto,Flanker,1990-07-15,25,0,Italy
+Braam Steyn,Flanker,1992-05-02,23,0,Italy
+Alessandro Zanni,Flanker,1984-01-31,32,94,Italy
+Sergio Parisse (c),Number 8,1983-09-12,32,114,Italy
+Dries van Schalkwyk,Number 8,1984-12-21,31,0,Italy
+Edoardo Gori,Scrum-half,1990-03-05,25,47,Italy
+Guglielmo Palazzani,Scrum-half,1991-04-11,24,15,Italy
+Carlo Canna,Fly-half,1992-08-25,23,7,Italy
+Edoardo Padovani,Fly-half,1993-05-15,22,0,Italy
+Giulio Bisegni,Centre,1992-04-04,23,2,Italy
+Michele Campagnaro,Centre,1993-03-13,22,18,Italy
+Tommaso Castello,Centre,1991-08-14,24,0,Italy
+Gonzalo García,Centre,1984-02-18,31,39,Italy
+Kelly Haimona,Centre,1986-07-30,29,7,Italy
+Andrea Pratichetti,Centre,1988-11-26,27,1,Italy
+Mattia Bellini,Wing,1994-02-08,21,0,Italy
+David Odiete,Wing,1993-02-24,22,0,Italy
+Leonardo Sarto,Wing,1992-01-15,24,23,Italy
+Luke McLean,Fullback,1987-06-29,28,75,Italy
+Oliviero Fabiani,Hooker,1990-07-13,25,0,Italy
+Davide Giazzon,Hooker,1986-01-16,30,24,Italy
+Pietro Ceccarelli,Prop,1992-02-16,23,0,Italy
+Joshua Furno,Lock,1989-10-21,26,35,Italy
+Quintin Geldenhuys,Lock,1981-06-19,34,61,Italy
+Robert Barbieri,Flanker,1984-06-05,31,39,Italy
+Alberto Lucchese,Scrum-half,1986-03-28,29,0,Italy
+Tommaso Allan,Fly-half,1993-04-26,22,21,Italy
+Luca Morisi,Centre,1991-02-22,24,16,Italy
+Andrea Buondonno,Wing,1992-01-01,24,0,Italy
+Ross Ford,Hooker,1984-04-23,31,94,Scotland
+Pat MacArthur,Hooker,1987-04-27,28,6,Scotland
+Stuart McInally,Hooker,1990-08-09,25,2,Scotland
+Alasdair Dickinson,Prop,1983-09-11,32,52,Scotland
+Zander Fagerson,Prop,1996-01-19,20,0,Scotland
+Moray Low,Prop,1984-11-28,31,29,Scotland
+WP Nel,Prop,1986-04-30,29,8,Scotland
+Gordon Reid,Prop,1987-03-04,28,15,Scotland
+Rory Sutherland,Prop,1992-08-24,23,0,Scotland
+Jonny Gray,Lock,1994-03-14,21,19,Scotland
+Richie Gray,Lock,1989-08-24,26,51,Scotland
+Tim Swinson,Lock,1987-02-17,28,17,Scotland
+Ben Toolis,Lock,1992-03-31,23,1,Scotland
+John Barclay,Flanker,1986-09-24,29,45,Scotland
+Blair Cowan,Flanker,1986-04-21,29,15,Scotland
+Chris Fusaro,Flanker,1989-07-21,26,4,Scotland
+John Hardie,Flanker,1988-07-27,27,5,Scotland
+Josh Strauss,Flanker,1986-10-23,29,5,Scotland
+Adam Ashe,Number 8,1993-07-24,22,6,Scotland
+David Denton,Number 8,1990-02-05,26,32,Scotland
+Sam Hidalgo-Clyne,Scrum-half,1993-08-04,22,8,Scotland
+Greig Laidlaw (c),Scrum-half,1985-10-12,30,46,Scotland
+Finn Russell,Fly-half,1992-09-23,23,15,Scotland
+Duncan Weir,Fly-half,1991-05-10,24,21,Scotland
+Mark Bennett,Centre,1993-02-03,23,13,Scotland
+Alex Dunbar,Centre,1990-04-23,25,14,Scotland
+Peter Horne,Centre,1989-10-05,26,15,Scotland
+Matt Scott,Centre,1990-09-30,25,33,Scotland
+Duncan Taylor,Centre,1989-09-05,26,12,Scotland
+Sean Lamont,Wing,1981-01-15,35,101,Scotland
+Sean Maitland,Wing,1988-09-14,27,20,Scotland
+Tommy Seymour,Wing,1988-07-01,27,22,Scotland
+Tim Visser,Wing,1987-05-29,28,23,Scotland
+Ruaridh Jackson,Fullback,1988-02-12,27,27,Scotland
+Stuart Hogg,Fullback,1992-06-24,30,38,Scotland
+Fraser Brown,Hooker,1989-06-20,26,15,Scotland
+George Turner,Hooker,1991-01-03,25,0,Scotland
+Alex Allan,Prop,1992-02-28,23,1,Scotland
+Rob Harley,Flanker,1990-05-26,32,17,Scotland
+Hamish Watson,Flanker,1991-10-15,24,2,Scotland
+Ryan Wilson,Number 8,1989-05-18,33,15,Scotland
+Grayson Hart,Scrum-half,1988-06-19,27,3,Scotland
+Henry Pyrgos,Scrum-half,1989-07-09,26,17,Scotland
+Scott Baldwin ‡,Hooker,1988-07-12,27,15,Wales
+Kristian Dacey,Hooker,1989-07-25,26,2,Wales
+Ken Owens,Hooker,1987-01-03,29,34,Wales
+Rob Evans,Prop,1992-04-14,23,3,Wales
+Tomas Francis,Prop,1992-04-27,23,7,Wales
+Paul James,Prop,1982-05-13,33,65,Wales
+Aaron Jarvis,Prop,1986-05-20,29,16,Wales
+Gethin Jenkins,Prop,1980-11-17,35,119,Wales
+Samson Lee ‡,Prop,1992-11-30,23,17,Wales
+Jake Ball ‡,Lock,1991-06-21,24,15,Wales
+Luke Charteris,Lock,1983-03-09,32,62,Wales
+Bradley Davies,Lock,1987-01-09,29,49,Wales
+Dominic Day,Lock,1985-08-22,30,3,Wales
+Alun Wyn Jones ‡,Lock,1985-09-19,30,94,Wales
+Josh Turnbull,Flanker,1988-03-12,27,7,Wales
+James King ‡,Flanker,1990-07-24,25,7,Wales
+Dan Lydiate ‡,Flanker,1987-12-18,28,51,Wales
+Ross Moriarty,Flanker,1994-04-18,21,4,Wales
+Justin Tipuric,Flanker,1989-08-06,26,38,Wales
+Sam Warburton (c) ‡,Flanker,1988-10-05,27,60,Wales
+Taulupe Faletau,Number 8,1990-11-12,25,52,Wales
+Aled Davies,Scrum-half,1992-07-19,23,0,Wales
+Gareth Davies,Scrum-half,1990-08-18,25,9,Wales
+Lloyd Williams,Scrum-half,1989-11-30,26,24,Wales
+Dan Biggar ‡,Fly-half,1989-10-16,26,39,Wales
+Rhys Priestland,Fly-half,1987-01-09,29,40,Wales
+Cory Allen,Centre,1993-02-11,22,4,Wales
+Jonathan Davies,Centre,1988-04-05,27,48,Wales
+Tyler Morgan ‡,Centre,1995-09-11,20,3,Wales
+Jamie Roberts,Centre,1986-11-08,35,74,Wales
+Hallam Amos,Wing,1994-09-24,21,5,Wales
+Alex Cuthbert,Wing,1990-04-05,25,40,Wales
+Tom James,Wing,1987-04-17,28,10,Wales
+George North,Wing,1992-04-13,23,55,Wales
+Gareth Anscombe ‡,Fullback,1991-05-10,24,3,Wales
+Matthew Morgan,Fullback,1992-04-23,23,5,Wales
+Liam Williams,Fullback,1991-04-09,24,26,Wales
+Rhys Webb ‡,Scrum-half,1988-12-09,27,16,Wales
